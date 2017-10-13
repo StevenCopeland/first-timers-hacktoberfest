@@ -149,3 +149,8 @@ Bio: Student
 Place: India 
 Email: rkpattnaik780@gmail.com 
 Facebook: https://www.facebook.com/ramakrishna.pattnaik
+
+Name: Brian May
+Bio: Student
+Place: Michigan
+Email: BrianMay.USA@gmail.com
