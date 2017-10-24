@@ -34,6 +34,11 @@ Bio: College Student
 Place: College Park  
 Email: markanthonyngo@gmail.com  
 
+Name: Jaime Hahn
+Bio: Student  
+Place: College in my town  
+Email: jaimehahn@yandex.com
+
 Name: Chris Sullivan  
 Bio: Computer Science Student at University of Maryland  
 Place: Maryland  
