@@ -155,6 +155,11 @@ Place: Bangalore
 Email: md.saud020@gmail.com  
 Facebook: fb.com/rotttencandy  
 
+Name:Prashant Hari
+Bio: Self taught programmer.  
+Place: South Africa  
+Email: prashant.hari88@gmail.om
+
 Name: Deepak Senapati  
 Bio: Student  
 Place: India  
