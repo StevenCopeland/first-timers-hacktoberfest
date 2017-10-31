@@ -539,3 +539,9 @@ Name: James Longs
 Bio: Student
 Place: Canada
 GitHub: https://github.com/jameslongs37
+
+Name: Florian Bernklau
+Bio: Currently studying in the field of Business CS and trying to become a teacher of CS and German
+Place: Vienna, Austria
+Github: https://github.com/fbernklau
+
