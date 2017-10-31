@@ -539,3 +539,8 @@ Name: James Longs
 Bio: Student
 Place: Canada
 GitHub: https://github.com/jameslongs37
+
+Name: shell
+Bio: I'm a newbie
+Place: USA
+GitHub: https://github.com/amzshell
