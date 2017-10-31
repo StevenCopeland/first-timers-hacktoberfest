@@ -539,3 +539,8 @@ Name: James Longs
 Bio: Student
 Place: Canada
 GitHub: https://github.com/jameslongs37
+
+Name: Mosekwa Motlana
+Bio: Software Developer
+Place: Midrand, South Africa
+Github: https://github.com/mosekwa
