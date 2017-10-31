@@ -539,3 +539,8 @@ Name: James Longs
 Bio: Student
 Place: Canada
 GitHub: https://github.com/jameslongs37
+
+Name: tnisaac
+Bio: I am a hobbyist who just started teaching myself how to program.
+Place: Japan
+GitHub: https://github.com/tnisaac
