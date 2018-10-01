@@ -1,8 +1,8 @@
 Hi! Thanks for contributing! Please make sure that you have:
 
-- [ ] Added the correct info
-- [ ] Stared the repo :wink:
-- [ ] Looked over the Code of Conduct and this content is inline with it
+- [X] Added the correct info
+- [X] Stared the repo :wink:
+- [X] Looked over the Code of Conduct and this content is inline with it
 
 Put an X between the brackets([]) when you are done.
 

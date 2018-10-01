@@ -73,6 +73,13 @@ Bio: Student
 Place: Estonia  
 Email: fubirino@gmail.com  
 
+Name: Janice Kim
+Bio: High School Student
+Place: Newark, NJ, USA 
+Website: N/A
+Twitter: N/A
+Facebook: N/A
+
 Name: Mayur Vashishth  
 Bio: Student  
 Place: India  
