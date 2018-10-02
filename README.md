@@ -24,6 +24,11 @@ Bio: Engineer
 Place: USA  
 Github: https://github.com/SenorYi 
 
+Name: Anuj Raval
+Bio: Computer Engineer
+Place: India  
+Github: https://github.com/anujraval24 
+
 Name: Sid  
 Bio: Aspiring software developer  
 Place: USA  
