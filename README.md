@@ -565,3 +565,8 @@ Name: Prashant Bajaj
 Bio: learning frontend web development
 Place: kanpur, uttarpradesh , INDIA
 Github: https://github.com/bajaj99prashant
+
+Name: Ananya Gupta
+Bio: I am passionate about competitve coding
+Place: Manipal
+Website: https://github.com/ananyagupta6
