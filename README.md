@@ -565,3 +565,8 @@ Name: Prashant Bajaj
 Bio: learning frontend web development
 Place: kanpur, uttarpradesh , INDIA
 Github: https://github.com/bajaj99prashant
+
+Name: Vy Dao
+Bio: Ruby dev
+Place: VN
+Github: https://github.com/vydao
