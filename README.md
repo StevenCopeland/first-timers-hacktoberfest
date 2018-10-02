@@ -565,3 +565,10 @@ Name: Prashant Bajaj
 Bio: learning frontend web development
 Place: kanpur, uttarpradesh , INDIA
 Github: https://github.com/bajaj99prashant
+
+Name: Vidushi Jain 
+Bio: College Student  
+Place: Noida,India  
+Email: jainvidushi30@gmail.com
+Github:  https://github.com/VidushiJain30
+
