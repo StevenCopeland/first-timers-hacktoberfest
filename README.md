@@ -565,3 +565,8 @@ Name: Prashant Bajaj
 Bio: learning frontend web development
 Place: kanpur, uttarpradesh , INDIA
 Github: https://github.com/bajaj99prashant
+
+Name: kabotage
+Bio: College drop out
+Place: Cubao City, Philippines
+Github: [kabotage](https://github.com/kabotage)
