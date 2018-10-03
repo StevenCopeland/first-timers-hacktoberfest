@@ -578,7 +578,3 @@ Bio: Learning IOT
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio 
 
-Name: Shubhankar Chandra Banejee
-Bio: Budding Front-End Web Developer 
-Place: Ghaziabad, India 
-Github: https://github.com/shubhankarb180
