@@ -577,3 +577,8 @@ Name: B Siddhartha
 Bio: Learning IOT  
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio 
+
+Name: Kanav
+Bio: Student  
+Place: Hyderabad, INDIA  
+Github: https://github.com/kanav7
