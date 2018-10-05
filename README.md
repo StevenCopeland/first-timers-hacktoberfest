@@ -578,3 +578,8 @@ Name: B Siddhartha
 Bio: Learning IOT  
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio 
+
+Name: Jennifer Cai
+Bio: Howdy! Data Analytics student at Texas A&M University
+Place: Houston, TX
+Github: https://github.com/analyticsdriven
