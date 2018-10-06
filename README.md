@@ -22,6 +22,13 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
+Name: Khesualdo Condori
+Bio: cpsc student
+Place: Llanfairpwllgwyngyll
+Website: don't have one
+Twitter: not found
+Facebook: lol what!?!!?
+
 Name: Priyam  
 Bio: Introduction to Java and HTML  
 Place: California, USA  
