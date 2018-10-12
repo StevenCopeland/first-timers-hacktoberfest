@@ -578,3 +578,10 @@ Name: B Siddhartha
 Bio: Learning IOT  
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio 
+
+Name: Ayushi
+Bio: I am a student
+Place: India
+Website: n/a
+Twitter: n/a
+Facebook: n/a
