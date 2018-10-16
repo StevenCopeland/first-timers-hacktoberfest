@@ -578,3 +578,9 @@ Name: B Siddhartha
 Bio: Learning IOT  
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio 
+
+Name: Shivani Gupta
+Bio: Frontend Developer
+Place: India
+Email: shivanigupta10898@gmail.com
+github: Gshivani1234
