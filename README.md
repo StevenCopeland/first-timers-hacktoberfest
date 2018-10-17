@@ -579,7 +579,7 @@ Bio: Learning IOT
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio 
 
-Name: Laverena W.	
-Bio: No one ever pronounces my name right, and I own a rabbit named Honey Bun!! 	
-Place: Ohio, USA	
-Website: https://github.com/Lennevia	
+Name: Laverena W.
+Bio: No one ever pronounces my name right, and I own a rabbit named Honey Bun!!  
+Place: Ohio, USA	 
+Github: https://github.com/Lennevia
