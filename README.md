@@ -581,5 +581,7 @@ Github: https://github.com/bsidio
 
 Name: Laverena W.
 Bio: No one ever pronounces my name right, and I own a rabbit named Honey Bun!! 
+
 Place: Ohio, USA
+
 Website: https://github.com/Lennevia
