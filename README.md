@@ -475,6 +475,11 @@ Bio : Student
 Place : Udaipur  
 Github : khushboopaddiyar  
 
+Name: Iknor
+Bio : Student  
+Place : States  
+Github : iknoorjobs 
+
 Name: Thibaut Van Spaandonck		 
 Bio: Startup founder		  
 Place: Belgium		 
