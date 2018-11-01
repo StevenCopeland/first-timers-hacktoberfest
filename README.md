@@ -5,6 +5,10 @@ Some awesome first timers! Please add your name, bio, website, place, facebook o
 [2018 List](2018.md)
 
 ### Example
+Name: Nicholas Huber
+Bio: Developer
+Place: USA
+Github: https://github.com/nicholashuber
 
 Name: Stephen
 Bio: I am a great guy!
