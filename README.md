@@ -585,3 +585,8 @@ Place: Vancouver, Canada<br>
 Website: amirnaghibi.github.io<br>
 Twitter: amir__naghibi<br>
 Github: https://github.com/amirnaghibi<br>
+
+Name: IntPirate
+Bio: hobbiest scripter/programmer thst never learn how to use github
+Place: somewhere in TX
+Website: i wish 
